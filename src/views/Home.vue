@@ -151,13 +151,9 @@ import { onMounted, ref } from 'vue';
 import { Lazyload } from 'vant';
 import { ElMessage,ElLoading  } from 'element-plus'
 let  wsMap = ref({}).value;
-// let ws = ref(null).value;
-// const ws = new WebSocket("ws://159.75.18.63:9000");
-// const ws = new WebSocket("ws://127.0.0.1:9000/ws");
 export default {
     setup() {
         const innerRef = ref(null);
-        // const ws = ref(socketManager.getSocket()).value;
         return {
             innerRef,
         };
