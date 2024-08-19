@@ -1,7 +1,7 @@
 # store-chat-web
 ## 感谢由 `haostart`作者提供的代码库
     https://github.com/haostart/websocket-chat
-### 该项目进行了二次修改，与原作者提供的代码有很大改动
+### 该项目进行了二次修改，与作者提供的代码仓由较大的变动
 
 
 ## 项目说明
