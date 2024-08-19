@@ -2,7 +2,8 @@
 ## 感谢由 `haostart`作者提供的代码库
     https://github.com/haostart/websocket-chat
 ### 该项目进行了二次修改，与作者提供的代码仓由较大的变动
-
+### 搭配提供的服务端使用体验会友好点
+    https://github.com/CNSDPan/store-chat
 
 ## 项目说明
 
